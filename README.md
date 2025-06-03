@@ -48,4 +48,5 @@ Chương trình tính giá trị băm SHA-512 của một file ảnh (ví dụ: 
 
 ## Liên hệ
 
-Mọi thắc mắc vui lòng liên hệ qua email hoặc GitHub.
+Mọi thắc mắc vui lòng liên hệ qua sansieuga02@gmail.com hoặc GitHub.
+[Dương Huy Hoàng - CNTT17-07]
